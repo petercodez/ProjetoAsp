@@ -1,11 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "2bR3ImXQO1Q=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
-    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
-  ],
-  "logs": []
+  "dgSpecHash": "QCyBlW8TTeI=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\pedro.pcsl\\Documents\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.\r\n  The proxy tunnel request to proxy 'http://proxy.dpf.gov.br:8080/' failed with status code '407'.\"",
+      "projectPath": "C:\\Users\\pedro.pcsl\\Documents\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp.csproj",
+      "filePath": "C:\\Users\\pedro.pcsl\\Documents\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

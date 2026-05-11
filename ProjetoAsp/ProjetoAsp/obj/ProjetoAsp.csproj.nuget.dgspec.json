@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp.csproj": {}
+    "C:\\Users\\pedro.pcsl\\Documents\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp.csproj": {
+    "C:\\Users\\pedro.pcsl\\Documents\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp.csproj",
+        "projectUniqueName": "C:\\Users\\pedro.pcsl\\Documents\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp.csproj",
         "projectName": "ProjetoAsp",
-        "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp.csproj",
-        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp\\obj\\",
+        "projectPath": "C:\\Users\\pedro.pcsl\\Documents\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp.csproj",
+        "packagesPath": "C:\\Users\\pedro.pcsl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pedro.pcsl\\Documents\\ProjetoAsp\\ProjetoAsp\\ProjetoAsp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pedro.pcsl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
